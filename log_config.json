@@ -1,0 +1,12 @@
+{
+  "join": true,
+  "death": true,
+  "leave": true,
+  "chat": true,
+  "charCreate": true,
+  "charSelect": true,
+  "charDelete": true,
+  "resourceStart": true,
+  "resourceStop": true,
+  "combatLog": true
+}
