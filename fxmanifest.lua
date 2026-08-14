@@ -5,7 +5,7 @@ rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aw
 name "jd_logs"
 author '_forza'
 description "JD Logs"
-url ""
+url "https://github.com/Forza-Studios/JD_logs_for-discord_REDM"
 
 
 client_script {
