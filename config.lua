@@ -2,7 +2,7 @@ local config = {}
 
 config.webhooks = {
     chat   = "CHANGE ME",
-    player = "CHANGE ME",
+    player = "",
     system = "CHANGE ME",
     -- If you need more specific webhooks, copy and paste the below example, change the variable name, and then add the webhook url
     -- Then find which event you want to change the webhook to and change the webhook (see config.embed.onResourceStart for an example on how to change the webhook)
@@ -41,8 +41,8 @@ config.translations = {
     titleCharDeleted            = "Character Deleted",
     titlePlayerDeath            = "Player Killed",
 
-    descriptionResourceStart    = "Connected to Royal Productions | RoyalRP | RedM",
-    descriptionResourceStop     = "Disconnected from Royal Productions | RoyalRP | RedM",
+    descriptionResourceStart    = "Connected to forzaStudios | COI | RedM",
+    descriptionResourceStop     = "Disconnected from forzaStudios | COI | RedM",
     descriptionPlayerChat       = "",
     descriptionPlayerJoin       = "",
     descriptionPlayerLeave      = "",
@@ -51,7 +51,7 @@ config.translations = {
     descriptionCharDeleted      = "",
     descriptionPlayerDeath      = "",
 
-    footerText                  = "Royal Productions | RoyalRP | RedM",         -- If you want different footer text for different embeds, copy and paste the below line, and change the name to be something unique
+    footerText                  = "forzayt | forzaStudios | RedM",         -- If you want different footer text for different embeds, copy and paste the below line, and change the name to be something unique
     -- footerTextExample           = "This footer text is different",              -- Do not use footerText as that will cause issues and will not display correctly!
 }
 
